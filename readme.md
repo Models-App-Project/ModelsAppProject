@@ -10,11 +10,20 @@ O Models App Project é um aplicativo móvel personalizado para a fotógrafa Fer
 
 Somos um grupo de estudantes entusiastas da disciplina de Desenvolvimento para Dispositivos Móveis, colaborando juntos para criar um aplicativo que atenda às necessidades de fotógrafos e modelos. Cada membro da equipe contribui de maneira colaborativa, trazendo suas habilidades e ideias para o sucesso do projeto. Valorizamos o trabalho em equipe e a troca constante de conhecimento durante o desenvolvimento.
 
+Orientados pelo Professor **[Vinicius De Filippo](https://github.com/viniciusdefilippo)**
+
 **Alunos responsáveis pelo projeto:**
 
 - [Breno Amaral Santos](https://github.com/DevBrenoSantos)
 - [Daniel Nunes](https://github.com/includeDaniel)
 - [João Vitor Fernandes](https://github.com/Lima-Developer)
+
+**Alunos colaboradores:**
+
+-...
+-...
+-...
+-...
 
 ## 📅 Cronograma
 
