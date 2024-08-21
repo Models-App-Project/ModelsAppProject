@@ -10,6 +10,12 @@ O Models App Project é um aplicativo móvel personalizado para a fotógrafa Fer
 
 Somos um grupo de estudantes entusiastas da disciplina de Desenvolvimento para Dispositivos Móveis, colaborando juntos para criar um aplicativo que atenda às necessidades de fotógrafos e modelos. Cada membro da equipe contribui de maneira colaborativa, trazendo suas habilidades e ideias para o sucesso do projeto. Valorizamos o trabalho em equipe e a troca constante de conhecimento durante o desenvolvimento.
 
+**Alunos responsáveis pelo projeto:**
+
+- [Breno Amaral Santos](https://github.com/DevBrenoSantos)
+- [Daniel Nunes](https://github.com/includeDaniel)
+- [João Vitor Fernandes](https://github.com/Lima-Developer)
+
 ## 📅 Cronograma
 
 O projeto será desenvolvido em fases ao longo do semestre
@@ -31,9 +37,9 @@ O projeto será desenvolvido em fases ao longo do semestre
 **Se você é membro da equipe do projeto, siga os passos abaixo para contribuir:**
 
 1. Faça um fork deste repositório.
-2. Crie uma nova branch para sua feature (git checkout -b feature/nome-da-feature).
-3. Faça commit das suas alterações (git commit -m 'Adiciona nova feature').
-4. Envie para o repositório (git push origin feature/nome-da-feature).
+2. Crie uma nova branch para sua feature ```(git checkout -b feature/nome-da-feature)```.
+3. Faça commit das suas alterações ```(git commit -m 'Adiciona nova feature')```.
+4. Envie para o repositório ```(git push origin feature/nome-da-feature)```.
 5. Abra um Pull Request.
 
 ## 📄 Licença
