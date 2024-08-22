@@ -6,6 +6,12 @@ Este projeto faz parte da disciplina de **Desenvolvimento para Dispositivos Móv
 
 O Models App Project é um aplicativo móvel personalizado para a fotógrafa **Fernanda Mendes Marques De Oliveira** e suas modelos, projetado para facilitar a comunicação, organização de sessões de fotos e gerenciamente de portfólios. O aplicativo permitirá que a fotógrafa gerencie suas sessões de fotos, organize seu portfólio e interaja com as modelos de forma eficiente. Além disso, haverá uma seção dedicada para as modelos, onde elas poderão divulgar também seus próprios portfólios.
 
+Conheça mais sobre o projeto com o levantamento de requisitos:
+[Levantamento de Requisitos](./docs/requirements.md)
+
+Conheça mais sobre o escopo do projeto e a arquitetura utilizada:
+[Arquitetura](./docs/architecture.md)
+
 ## 👥 Equipe
 
 Somos um grupo de estudantes entusiastas da disciplina de Desenvolvimento para Dispositivos Móveis, colaborando juntos para criar um aplicativo que atenda às necessidades de fotógrafos e modelos. Cada membro da equipe contribui de maneira colaborativa, trazendo suas habilidades e ideias para o sucesso do projeto. Valorizamos o trabalho em equipe e a troca constante de conhecimento durante o desenvolvimento.
@@ -35,13 +41,13 @@ Orientados pelo Professor **[Vinicius De Filippo](https://github.com/viniciusdef
 
 ## 📅 Cronograma
 
-O projeto será desenvolvido em fases ao longo do semestre
+O projeto será desenvolvido em fases ao longo do semestre, se quiser mais detalhes sobre o fluxo de trabalho do projeto, confira [AQUI](./docs/roadmap.md)
 
-- **Fase 1**: Planejamento e design *(Mês 1)*
-- **Fase 2**: Desenvolvimento da infraestrutura básica do app *(Mês 2)*
-- **Fase 3**: Implementação das funcionalidades princpais *(Mês 3)*
-- **Fase 4**: Testes e ajustes *(Mês 4)*
-- **Fase 5**: Apresentação e entrega final *(Mês 5)*
+- **Fase 1**: Planejamento e design *(Semana 1-2)*
+- **Fase 2**: Desenvolvimento da infraestrutura básica do app *(Semana-3-6)*
+- **Fase 3**: Implementação das funcionalidades princpais *(Semana 7-10)*
+- **Fase 4**: Testes e ajustes *(Semana 11-14)*
+- **Fase 5**: Apresentação e entrega final *(Semana 15)*
 
 ## 🛠️ Tecnologias Utilizadas
 
