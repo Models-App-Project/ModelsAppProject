@@ -4,7 +4,7 @@ Este projeto faz parte da disciplina de **Desenvolvimento para Dispositivos Móv
 
 ## 📱 Sobre o Projeto
 
-O Models App Project é um aplicativo móvel personalizado para a fotógrafa Fernanda Mendes e suas modelos, projetado para facilitar a comunicação, organização de sessões de fotos e gerenciamente de portfólios. O aplicativo permitirá que a fotógrafa gerencie suas sessões de fotos, organize seu portfólio e interaja com as modelos de forma eficiente. Além disso, haverá uma seção dedicada para as modelos, onde elas poderão divulgar também seus próprios portfólios.
+O Models App Project é um aplicativo móvel personalizado para a fotógrafa **Fernanda Mendes Marques De Oliveira** e suas modelos, projetado para facilitar a comunicação, organização de sessões de fotos e gerenciamente de portfólios. O aplicativo permitirá que a fotógrafa gerencie suas sessões de fotos, organize seu portfólio e interaja com as modelos de forma eficiente. Além disso, haverá uma seção dedicada para as modelos, onde elas poderão divulgar também seus próprios portfólios.
 
 ## 👥 Equipe
 
@@ -15,15 +15,23 @@ Orientados pelo Professor **[Vinicius De Filippo](https://github.com/viniciusdef
 **Alunos responsáveis pelo projeto:**
 
 - [Breno Amaral Santos](https://github.com/DevBrenoSantos)
-- [Daniel Nunes](https://github.com/includeDaniel)
-- [João Vitor Fernandes](https://github.com/Lima-Developer)
+- [Daniel Nunes Da Silva](https://github.com/includeDaniel)
+- [João Victor Fernandes Lima](https://github.com/Lima-Developer)
 
 **Alunos colaboradores:**
 
--...
--...
--...
--...
+- Adeide Gonçalves De Meira De Abreu
+- Ana Letícia De Souza Pinheiro
+- Guilherme Cosme Dos Santos
+- João Gabriel Ribeiro Holanda
+- João Vitor Gomes
+- Júlio César Coutinho Mendes Rocha
+- Luan Tadeu Lima Rezende Dias
+- Lucas Soares Da Silva Lopes
+- Luigi Fernando Alves De Oliveira
+- Matheus De Castro Oliveira
+- Pedro Henrique Dornelas Da Conceição
+- Ulisses Santana Gomes
 
 ## 📅 Cronograma
 
