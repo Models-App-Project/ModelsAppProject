@@ -26,18 +26,18 @@ Orientados pelo Professor **[Vinicius De Filippo](https://github.com/viniciusdef
 
 **Alunos colaboradores:**
 
-- Adeide Gonçalves De Meira De Abreu
-- Ana Letícia De Souza Pinheiro
-- Guilherme Cosme Dos Santos
-- João Gabriel Ribeiro Holanda
-- João Vitor Gomes
-- Júlio César Coutinho Mendes Rocha
-- Luan Tadeu Lima Rezende Dias
-- Lucas Soares Da Silva Lopes
-- Luigi Fernando Alves De Oliveira
-- Matheus De Castro Oliveira
-- Pedro Henrique Dornelas Da Conceição
-- Ulisses Santana Gomes
+- [Adeide Gonçalves De Meira De Abreu](https://github.com/AdeideDev)
+- [Ana Letícia De Souza Pinheiro](https://github.com/AnaSouzaPinheiro)
+- [Guilherme Cosme Dos Santos](...)
+- [João Gabriel Ribeiro Holanda](https://github.com/JaoNotLitz)
+- [João Vitor Gomes](https://github.com/joaovitorgsoliv06)
+- [Júlio César Coutinho Mendes Rocha](https://github.com/Allfread)
+- [Luan Tadeu Lima Rezende Dias](https://github.com/LuanTadeu36)
+- [Lucas Soares Da Silva Lopes](https://github.com/dinastiadoge)
+- [Luigi Fernando Alves De Oliveira](https://github.com/Luigifao)
+- [Matheus De Castro Oliveira](https://github.com/Matheus10772)
+- [Pedro Henrique Dornelas Da Conceição](https://github.com/PDornn)
+- [Ulisses Santana Gomes](https://github.com/Lulki)
 
 ## 📅 Cronograma
 
