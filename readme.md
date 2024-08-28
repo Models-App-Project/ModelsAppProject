@@ -65,6 +65,8 @@ O projeto será desenvolvido em fases ao longo do semestre, se quiser mais detal
 4. Envie para o repositório ```(git push origin feature/nome-da-feature)```.
 5. Abra um Pull Request.
 
+Se ainda houver dúvidas, acesse [AQUI](./docs/contributing.md) o arquivo para mais detalhes sobre como contribuir com a aplicação.
+
 ## 📄 Licença
 
 Este projeto é licenciado sob a MIT License. Consulte o arquivo [LICENSE](./LICENSE.txt) para mais detalhes.
