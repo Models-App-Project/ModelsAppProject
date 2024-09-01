@@ -36,6 +36,7 @@ O "Models App Project" é uma aplicação móvel desenvolvida em Flutter, com ba
    +--> [Firebase Cloud Messaging] <---+   |
 ```
 
+![MVVM architecture image](../assets/images/Sem%20título-2024-07-11-1136.svg)
 
 ## 4. Explicando a arquitetura MVVM (Model-view0ViewModel)
 
