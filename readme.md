@@ -1,6 +1,6 @@
 # Models App Project
 
-Este projeto faz parte da disciplina de **Desenvolvimento para Dispositivos Móveis** e será desenvolvido ao longo de todo o semestre. Nosso objetivo é criar um aplicativo móvel completo para uma fotógrafa, com funcionalidades que também atenderão às necessidades das modelos.
+Este projeto faz parte das disciplinas de **Desenvolvimento para Dispositivos Móveis** e **Engenharia de Software**, e será desenvolvido ao longo de todo o semestre. Nosso objetivo é criar um aplicativo móvel completo para uma fotógrafa, com funcionalidades que também atenderão às necessidades das modelos.
 
 ## 📱 Sobre o Projeto
 
@@ -16,13 +16,13 @@ Conheça mais sobre o escopo do projeto e a arquitetura utilizada:
 
 Somos um grupo de estudantes entusiastas da disciplina de Desenvolvimento para Dispositivos Móveis, colaborando juntos para criar um aplicativo que atenda às necessidades de fotógrafos e modelos. Cada membro da equipe contribui de maneira colaborativa, trazendo suas habilidades e ideias para o sucesso do projeto. Valorizamos o trabalho em equipe e a troca constante de conhecimento durante o desenvolvimento.
 
-Orientados pelo Professor **[Vinicius De Filippo](https://github.com/viniciusdefilippo)**
+Orientados pelos Professores **[Vinicius De Filippo](https://github.com/viniciusdefilippo)** e **[Erica Oliveira](https://www.linkedin.com/in/ericaoliveira/)**
 
 **Alunos responsáveis pelo projeto:**
 
-- [Breno Amaral Santos](https://github.com/DevBrenoSantos)
-- [Daniel Nunes Da Silva](https://github.com/includeDaniel)
-- [João Victor Fernandes Lima](https://github.com/Lima-Developer)
+- [Breno Amaral Santos](https://github.com/DevBrenoSantos) - Scrum Master & Project Manager
+- [Daniel Nunes Da Silva](https://github.com/includeDaniel) - Product Owner & Líder QA
+- [João Victor Fernandes Lima](https://github.com/Lima-Developer) - Techlead & DevOps
 
 **Alunos colaboradores:**
 
@@ -51,8 +51,8 @@ O projeto será desenvolvido em fases ao longo do semestre, se quiser mais detal
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend:** ...
-- **Backend:** ...
+- **Frontend:** Flutter, React & NextJS
+- **Backend:** Java SpringBoot
 - **Design:** Figma
 
 ## 🚀 Como Contribuir
