@@ -6,7 +6,7 @@
 
 ## 📋 Resumo do Progresso
 
-1. Levantamento de requisitos
+### 1. Levantamento de requisitos
 
 Foi realizado o levantamento dos principais requisitos do projeto através de reuniões com o cliente (Fotógrafa) e brainstorming com a equipe. Os principais requisitos levantados incluem:
 
@@ -30,7 +30,7 @@ Foi realizado o levantamento dos principais requisitos do projeto através de re
 
 Finalização do documento de requisitos em processo, datalhando funcionalidades e expectativas da cliente.
 
-2. Prototipagem
+### 2. Prototipagem
 
 O protótipo inicial foi desenvolvido e está em processo de validação com o cliente. A interface foi desenhada em ferramentas como o Figma, e as primeiras telas incluem:
 
@@ -64,19 +64,6 @@ Plano para o próximo ciclo de desenvolvimento até a próxima prova. Incluindo 
   - A equipe deverá manter um ritmo constante de colaboração, utilizando as práticas ágeis, como as daily stand-ups e a comunicação aberta.
   - O uso do quadro Kanban será intensificado para garantir a visualização clara do progresso das tarefas.
   - Espera-se que todos os membros estejam comprometidos em cumprir os prazos e em colaborar ativamente com revisões de código e feedback.
-
-- **Áreas de Foco**:
-  - [Identifique as áreas que precisarão de atenção especial na próxima iteração]
-
-## 📈 Feedback da Prova
-
-Feedbacks recebidos durante a prova (professores, colegas, ou clientes) e como eles influenciarão o próximo ciclo de desenvolvimento.
-
-- **Feedback 1**: [Descreva o feedback]
-  - **Ação Planejada**: [Descreva como o feedback será abordado]
-
-- **Feedback 2**: [Descreva o feedback]
-  - **Ação Planejada**: [Descreva como o feedback será abordado]
 
 ## 🛡️ Conclusão
 
