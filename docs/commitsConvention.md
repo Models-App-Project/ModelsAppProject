@@ -12,7 +12,7 @@ A mensagem de commit deve seguir a estrutura abaixo:
 <mensagem adicional/opcional>
 ```
 
-### Componentes:
+### Componentes
 
 1. **Tipo**: Define a categoria da alteração. É Obrigatório.
 2. **Escopo**: Opcional. Indica a área ou módulo do projeto que foi alterado.
