@@ -21,8 +21,8 @@ Orientados pelos Professores **[Vinicius De Filippo](https://github.com/vinicius
 **Alunos responsáveis pelo projeto:**
 
 - [Breno Amaral Santos](https://github.com/DevBrenoSantos) - Scrum Master & Project Manager
-- [Daniel Nunes Da Silva](https://github.com/includeDaniel) - Product Owner & Líder QA
-- [João Victor Fernandes Lima](https://github.com/Lima-Developer) - Techlead & DevOps
+- [Daniel Nunes Da Silva](https://github.com/includeDaniel) - Techlead & DevOps
+- [João Victor Fernandes Lima](https://github.com/Lima-Developer) - Product Owner & Líder QA
 
 **Alunos colaboradores:**
 
